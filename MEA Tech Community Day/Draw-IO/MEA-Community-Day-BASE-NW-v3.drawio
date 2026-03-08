@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" pages="9">
     <diagram name="Student - Base-NW" id="_p3iuzQLFhGVJzzwwzrs">
-        <mxGraphModel dx="4697" dy="1711" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="5258" dy="1143" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="HkXO99kAm7R3lD4eRJBm-0"/>
                 <mxCell id="HkXO99kAm7R3lD4eRJBm-1" value="IP Subnetting" parent="HkXO99kAm7R3lD4eRJBm-0"/>
@@ -190,7 +190,7 @@
         </mxGraphModel>
     </diagram>
     <diagram name="Instructor - Base-NW" id="oe-hrUi7LP92o2kmblo1">
-        <mxGraphModel dx="6730" dy="2318" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="5258" dy="1387" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="DFgy7D9nUUjA8XZJcyvd-76" value="IP Subnetting" parent="0"/>
@@ -439,7 +439,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="WVpeS4PPq6Ohgr1VNbgj" name="Tips and Tricks - Tools">
-        <mxGraphModel dx="924" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+        <mxGraphModel dx="1573" dy="356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
