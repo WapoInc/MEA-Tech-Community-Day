@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram name="IKE VPN Tunnel" id="vpn-tunnel">
-        <mxGraphModel dx="345" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+        <mxGraphModel dx="1632" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -53,16 +53,13 @@
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="diagram-title" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;IKE VPN Tunnel Architecture&lt;/b&gt;&lt;br&gt;Tunnel ID: 0x1 | Status: Active" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-                    <mxGeometry x="320" y="20" width="460" height="40" as="geometry"/>
+                    <mxGeometry x="320" y="40" width="460" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="issue-note" value="&lt;b&gt;Issue Resolved:&lt;/b&gt; Policy mismatch corrected&lt;br&gt;Local adjusted to match remote requirements&lt;br&gt;(AES-CBC-128, SHA384, DhGroup24)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" parent="1" vertex="1">
                     <mxGeometry x="80" y="540" width="940" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="port-info" value="&lt;b&gt;All Protocols/Ports Allowed:&lt;/b&gt;&lt;br&gt;Protocol: 0 (All) | Ports: 0-65535" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="390" y="540" width="220" height="50" as="geometry"/>
-                </mxCell>
-                <mxCell id="2" value="111" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="110" y="78" width="40" height="30" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
